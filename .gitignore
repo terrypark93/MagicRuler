@@ -1,0 +1,10 @@
+*.dcu
+*.ddp
+*.drc
+*.exe
+*.local
+*.map
+__history/
+ModelSupport/
+Win32/
+Win64/
